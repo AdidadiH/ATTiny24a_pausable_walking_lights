@@ -3,6 +3,8 @@ This repository is for a project with a ATTiny24a
 
 
 You can download the .ino files and upload them like the description says.
+- attiny_001.ino = Pausable Walking-Lights
+- attiny_002.ino = Precision Game
 
 # Description:
 
