@@ -46,7 +46,7 @@ void loop() {
 
   if (currentMillis - millisCounter0 >= interval && level > 0) {
 
-    if(level <= 10){
+    if(level <= 20){
       interval = 2000/level;
     }
     
