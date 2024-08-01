@@ -89,7 +89,7 @@ Hardware Connection:
 
 2.1.2 Installing ATTinyCore:
 - Search for AttinyCore on GitHub.
-- Copy the link "http://drazzy.com/package_drazzy.com_index.json"(not made by me) provided in the installation guide.
+- Copy the link "http://drazzy.com/package_drazzy.com_index.json" (!not made by me!) provided in the installation guide.
 - Go to Arduino IDE, navigate to Preferences.
 - Paste the copied link in the Additional Board Manager URLs section.
 - Close the Preferences window.
