@@ -5,6 +5,7 @@ This repository is for a project with a ATTiny24a
 You can download the .ino files and upload them like the description says.
 - attiny_001.ino = Pausable Walking-Lights
 - attiny_002.ino = Precision Game
+- attiny_003.ino = Balance Game
 
 # Description:
 
@@ -37,8 +38,7 @@ You can download the .ino files and upload them like the description says.
 
   Interactive Games: The system can be programmed to operate as a game with two modes:
   - Precision Game: Requires the player to pause the light sequence at exactly the right position.
-  - Memory Game: Challenges the player to memorize the order of blinking LEDs and replicate it by pressing the button at the
-correct moment.
+  - Balance Game: Challenges the player to Balance the on led. By pressing the buttn the led changes direction.
 
 
 # 2 Programming & Customizing:
