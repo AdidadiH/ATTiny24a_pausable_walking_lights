@@ -49,7 +49,7 @@ You can download the .ino files and upload them like the description says.
   flexibility to customize and program the 8 LEDs, the Pause LED, and the button individually to create their own unique 
   games and lighting effects. Here are some ways users can leverage this customization:
 
-  - Individual LED Control: Users can program each of the 8 LEDs to light up in specific patterns, colors, or timings, 
+  - Individual LED Control: Users can program each of the 8 LEDs to light up in specific patterns, or timings, 
 	  	allowing for a wide range of visual effects.
 
   - Pause LED Customization: The Pause LED can be programmed to indicate different states or functions within the 
@@ -76,7 +76,7 @@ Hardware Connection:
 
 2.1.0 Connect the ATTiny24a pins as follows:
 - Pin 1 to 5V+
-- - Pin 4 to D10 on the Arduino
+-  Pin 4 to D10 on the Arduino
 - Pin 7 to D11 on the Arduino
 - Pin 8 to D12 on the Arduino
 - Pin 9 to D13 on the Arduino
